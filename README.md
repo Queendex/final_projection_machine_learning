@@ -1,5 +1,5 @@
 # final_project_on_machine_learning_using_the_mall_dataset
-Tackles supervised and unsuoervised machine learning using mall dataset. the customers for the organization were segmented according to their spending pattern using unsupervised machine learning.
+Tackles supervised and unsupervised machine learning using mall dataset. the customers for the organization were segmented according to their spending pattern using unsupervised machine learning.
 This segmentation analysis identifies key customer groups based on income, spending habits, age, and loyalty.
 The goal is to understand customer diversity, spending behavior, and develop targeted marketing strategies.
 Supervised learning were used to make the following predictions:
